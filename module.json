@@ -1,0 +1,20 @@
+{
+    "name": "colored-folder-contents",
+    "title": "Colored Folder Contents",
+    "description": "Applies folders' colors to their contents",
+    "author": {
+        "Name": "Sua Mãe, Aquela Católica",
+        "email": "alan@tpk.gg",
+        "discord": "Sua mãe, Aquela Católica#2512"
+    },
+    "version": "1.00",
+    "minimumCoreVersion": "0.7",
+    "compatibleCoreVersion": "0.8.8",
+    "scripts": [
+        "directory_colors.js"
+    ],
+    "manifest": "https://github.com/Rayuaz/colored-folder-contents/releases/latest/download/module.json",
+	"url": "https://github.com/Rayuaz/colored-folder-contents",
+    "download": "https://github.com/Rayuaz/colored-folder-contents/releases/latest/download/twilight-ui.zip",
+    "readme": "https://github.com/Rayuaz/colored-folder-contents/blob/master/README.md"
+}
