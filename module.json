@@ -10,7 +10,7 @@
     },
     "version": "1.01",
     "minimumCoreVersion": "0.7",
-    "compatibleCoreVersion": "0.8.8",
+    "compatibleCoreVersion": "0.8.9",
     "scripts": [
         "directory_colors.js"
     ],
