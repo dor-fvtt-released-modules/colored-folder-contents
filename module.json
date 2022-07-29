@@ -1,21 +1,42 @@
 {
-    "name": "colored-folder-contents",
+    "id": "colored-folder-contents",
     "title": "Colored Folder Contents",
-    "description": "Applies folders' colors to their contents",
-    "author": "Sua Mãe, Aquela Católica",
-    "authors": {
-        "Name": "Sua Mãe, Aquela Católica",
-        "email": "alan@tpk.gg",
-        "discord": "Sua mãe, Aquela Católica#2512"
+    "description": "A simple module that applies folders' colors to their contents.",
+    "version": "This is auto replaced.",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
     },
-    "version": "1.01",
-    "minimumCoreVersion": "0.7",
-    "compatibleCoreVersion": "0.8.9",
-    "scripts": [
-        "directory_colors.js"
+    "authors": [
+        {
+            "name": "Sua Mãe, Aquela Católica",
+            "email": "alan@tpk.gg",
+            "discord": "Sua mãe, Aquela Católica#2512"
+        },
+        {
+            "name": "Dor",
+            "discord": "dor#7514"
+        }
     ],
-    "manifest": "https://github.com/Rayuaz/colored-folder-contents/releases/latest/download/module.json",
-	"url": "https://github.com/Rayuaz/colored-folder-contents",
-    "download": "https://github.com/Rayuaz/colored-folder-contents/releases/latest/download/colored-folder-contents.zip",
-    "readme": "https://github.com/Rayuaz/colored-folder-contents/blob/master/README.md"
+    "esmodules": [
+        "scripts/colored-folder-contents.js"
+    ],
+	"url": "This is auto replaced.",
+    "manifest": "This is auto replaced.",
+    "download": "This is auto replaced.",
+    "readme": "https://github.com/dor-fvtt-scratch/colored-folder-contents/master/README.md",
+    "changelog": "https://github.com/dor-fvtt-scratch/colored-folder-contents/master/CHANGELOG.md",
+    "bugs": "https://github.com/dor-fvtt-scratch/colored-folder-contents/issues",
+    "license": "LICENSE",
+    "media": [
+        {
+            "type": "cover",
+            "url": "https://raw.githubusercontent.com/dor-fvtt-scratch/colored-folder-contents/master/cover.jpg"
+        }
+    ],
+    "name": "colored-folder-contents",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "10"
 }
