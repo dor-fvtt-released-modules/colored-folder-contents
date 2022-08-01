@@ -13,5 +13,3 @@ This simple module for FoundryVTT applies folders' background colors to their co
 
 ## Credit
 This is a fork of [the original](https://github.com/Rayuaz/colored-folder-contents) by [Rayuaz](https://github.com/Rayuaz) - thanks to him for this useful little module.
-
-## License

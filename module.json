@@ -10,14 +10,14 @@
         "verified": "10"
     },
     "authors": [
+                {
+            "name": "Dor",
+            "discord": "dor#7514"
+        },
         {
             "name": "Sua Mãe, Aquela Católica",
             "email": "alan@tpk.gg",
             "discord": "Sua mãe, Aquela Católica#2512"
-        },
-        {
-            "name": "Dor",
-            "discord": "dor#7514"
         }
     ],
     "esmodules": [
@@ -26,14 +26,14 @@
 	"url": "This is auto replaced.",
     "manifest": "This is auto replaced.",
     "download": "This is auto replaced.",
-    "readme": "https://github.com/dor-fvtt-scratch/colored-folder-contents/master/README.md",
-    "changelog": "https://github.com/dor-fvtt-scratch/colored-folder-contents/master/CHANGELOG.md",
-    "bugs": "https://github.com/dor-fvtt-scratch/colored-folder-contents/issues",
+    "readme": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/master/README.md",
+    "changelog": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/master/CHANGELOG.md",
+    "bugs": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/issues",
     "license": "LICENSE",
     "media": [
         {
             "type": "cover",
-            "url": "https://raw.githubusercontent.com/dor-fvtt-scratch/colored-folder-contents/master/cover.jpg"
+            "url": "https://raw.githubusercontent.com/dor-fvtt-released-modules/colored-folder-contents/master/cover.jpg"
         }
     ],
     "name": "colored-folder-contents",
