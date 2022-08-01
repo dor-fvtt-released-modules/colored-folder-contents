@@ -1,11 +1,10 @@
 # Colored Folder Contents
 ![](https://img.shields.io/badge/Foundry-v10-informational)
-<!--- Downloads @ Latest Badge -->
-<!--- replace <user>/<repo> with your username/repository -->
-![Latest Release Download Count](https://img.shields.io/github/downloads/dor-fvtt-scratch/colored-folder-contents/latest/module.zip)
-<!--- Forge Bazaar Install % Badge -->
-<!--- replace <your-module-name> with the `name` in your manifest -->
+![GitHub Latest Version](https://img.shields.io/github/v/release/dor-fvtt-released-modules/colored-folder-contents?sort=semver)
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fcolored-folder-contents&colorB=4aa94a)
+
+![GitHub All Releases](https://img.shields.io/github/downloads/dor-fvtt-released-modules/colored-folder-contents/module.zip)
+![Latest Release Download Count](https://img.shields.io/github/downloads/dor-fvtt-released-modules/colored-folder-contents/latest/module.zip)
 
 This simple module for FoundryVTT applies folders' background colors to their contents.
 
