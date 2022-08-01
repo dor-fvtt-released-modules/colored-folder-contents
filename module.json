@@ -26,9 +26,9 @@
 	"url": "This is auto replaced.",
     "manifest": "This is auto replaced.",
     "download": "This is auto replaced.",
-    "readme": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/master/README.md",
-    "changelog": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/master/CHANGELOG.md",
-    "bugs": "https://github.com/dor-fvtt-released-modules/colored-folder-contents/issues",
+    "readme": "https://raw.githubusercontent.com/dor-fvtt-released-modules/colored-folder-contents/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/dor-fvtt-released-modules/colored-folder-contents/main/CHANGELOG.md",
+    "bugs": "https://raw.githubusercontent.com/dor-fvtt-released-modules/colored-folder-contents/issues",
     "license": "LICENSE",
     "media": [
         {
